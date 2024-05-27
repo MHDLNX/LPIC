@@ -23,3 +23,7 @@
 
 <hr>
 
+## BOOT Process
+
+- <a href="boot-process-stages.md">Boot Process Stages</a>
+- <a href="BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
