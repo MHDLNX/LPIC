@@ -1,4 +1,4 @@
-Sure, let's break it down simply:
+
 
 ### What is `init`?
 
