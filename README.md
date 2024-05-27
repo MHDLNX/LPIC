@@ -32,3 +32,5 @@
 ## Shell
 
 - <a href="shell/username-hostname.md">Username & Hostname</a>
+- <a href="shell/command-structure.md">Commands Structure</a>
+
