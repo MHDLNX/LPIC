@@ -31,4 +31,4 @@
 
 ## Shell
 
-- <a href="username-hostname.md">Username & Hostname</a>
+- <a href="shell/username-hostname.md">Username & Hostname</a>
