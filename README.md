@@ -29,3 +29,6 @@
 - <a href="Boot-Process/BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
 - <a href="Boot-Process/initd-systemd.md">The Concept of `initd` and `systemd`</a>
 
+## Shell
+
+- <a href="username-hostname.md">Username & Hostname</a>
