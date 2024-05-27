@@ -25,5 +25,5 @@
 
 ## BOOT Process
 
-- <a href="boot-process-stages.md">Boot Process Stages</a>
-- <a href="BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
+- <a href="Boot-Process/boot-process-stages.md">Boot Process Stages</a>
+- <a href="Boot-Process/BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
