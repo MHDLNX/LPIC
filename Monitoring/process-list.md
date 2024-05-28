@@ -1,4 +1,4 @@
-Sure! Here is a detailed explanation of each column in the process list of the `top` command:
+
 
 ### Process List Columns
 
