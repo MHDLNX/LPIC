@@ -141,9 +141,11 @@ These options cover the most common use cases and should help you perform a wide
 
 additional note : 
 
-to remove the lines which started with # ( comments ) : `grep -v "^#" `
+to remove the lines which started with # ( comments ) : `grep -v "^#" index.txt `
 
-to remove the lines that are empty : `grep -v "^$" `
+to remove the lines that are empty : `grep -v "^$" index.txt`
 
-combine 2 commands : `grep -v "^#" | grep -v "^$" `
+combine 2 commands : `grep -v "^#" index.txt | grep -v "^$" `
+
+another way : ` egrep -v "^#|^$" index.txt `
 
