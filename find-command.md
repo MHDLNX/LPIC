@@ -99,3 +99,10 @@ This command finds `.php` files in `/var/www` that were modified in the last 30 
 ### Summary
 
 The `find` command is an essential tool for file management in Unix-like systems. It provides extensive options to search for files and directories based on various criteria and allows executing commands on the found items. Mastery of `find` can greatly enhance efficiency in handling files and automating tasks.
+
+<hr>
+
+## additional note 
+
+- to search for a directory with special name : ` find /etc/ -name "services" -type d `
+- to search for files that are block device : ` find /dev/ -type b `
