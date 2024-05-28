@@ -136,3 +136,10 @@ grep -i -n -A 2 "hello" file.txt
 This command searches for "hello" case-insensitively, displays line numbers, and shows 2 lines after each match in `file.txt`.
 
 These options cover the most common use cases and should help you perform a wide range of text searches using the `grep` command.
+
+<hr>
+additional note : 
+to remove the lines which started with # ( comments ) : ` grep -v "^#" `
+to remove the lines that are empty : `grep -v "^$" `
+combine 2 commands : `grep -v "^#" | grep -v "^$" `
+
