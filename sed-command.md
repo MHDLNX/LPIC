@@ -133,3 +133,10 @@ sed [options] 'script' [input-file]
 ### Summary
 
 The `sed` command is an essential tool for text processing in Unix-like systems. It provides powerful capabilities to manipulate and transform text data directly from the command line or within scripts. Understanding its basic and advanced features can significantly enhance your ability to handle text files and automate text-related tasks.
+
+<hr>
+
+## additional note 
+
+- remove the lines which contain comment (#) and also empty lines : `cat index.txt | sed /^#/d | sed /^$/d`
+- 
