@@ -24,6 +24,8 @@
 - <a href="Monitoring/top.md"> `top` command </a>
 - <a href="Monitoring/process-list.md"> process list detail </a>
 - <a href="Monitoring/free-command.md"> Free command </a>
+- <a href="Monitoring/signal-kill.md"> Signals & Kill process </a>
+
 
 
 
