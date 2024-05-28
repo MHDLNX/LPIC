@@ -17,5 +17,7 @@
 - <a href="grep.md">`grep` command </a>
 - <a href="cut-command.md"> `cut` command </a>
 - <a href="find-command.md"> `find` command </a>
+- <a href="sed-command.md"> `sed` command </a>
+
 
 
