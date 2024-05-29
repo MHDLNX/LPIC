@@ -69,3 +69,9 @@ Example:
 - **`systemd`**: Uses unit files, starts services in parallel, manages dependencies, more efficient and powerful.
 
 In summary, `systemd` is a more modern and efficient system manager compared to the traditional `init` system, providing better performance and more features to manage services and system processes.
+
+## Additional Notes 
+
+پراسس اصلی : سیستم عامل رو مدیریت می کنه و همه پراسس های دیگه زیر مجموعه این پراسس هستند . که pid  شماره 1 داره و اولین پراسسی هست که روی لینوکس لود میشه . 
+پراسس init به این صورت بوده که وقتی بالا میومده ، روی 7 تا ران لول میتونسته اجرا بشه . که از صفر تا 6 ران لول داشته . 
+
