@@ -39,5 +39,7 @@
 - <a href="network/ip-port-protocol.md"> IP address , Port , TCP/UDP Protocol </a>
 - <a href="network/service-file.md"> about etc/service file : a file which service looking for port in it </a>
 - <a href="network/ifconfig.md"> my ifconfig result </a>
+- <a href="network/ip-command.md"> IP coomand details </a>
+
 
 
