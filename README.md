@@ -40,6 +40,8 @@
 - <a href="network/service-file.md"> about etc/service file : a file which service looking for port in it </a>
 - <a href="network/ifconfig.md"> my ifconfig result </a>
 - <a href="network/ip-command.md"> IP command details </a>
+- <a href="network/static-ip.md"> change network interface from using DHCP to a static IP address </a>
+
 
 
 
