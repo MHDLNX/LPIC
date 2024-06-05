@@ -41,6 +41,8 @@
 - <a href="network/ifconfig.md"> my ifconfig result </a>
 - <a href="network/ip-command.md"> IP command details </a>
 - <a href="network/static-ip.md"> change network interface from using DHCP to a static IP address </a>
+- <a href="network/netstat.md"> using `netstat` command - not recommended </a>
+
 
 
 
