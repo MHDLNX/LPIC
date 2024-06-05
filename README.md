@@ -1,6 +1,6 @@
 # LPIC DOCUMENTATION
 
-## BOOT Process
+## SYS Process
 
 - <a href="Boot-Process/boot-process-stages.md">Boot Process Stages</a>
 - <a href="Boot-Process/BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
