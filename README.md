@@ -8,6 +8,7 @@
 - <a href="Sys-Process/systemd.md"> Systemd and systemctl </a>
 - <a href="Sys-Process/systemctl-options.md"> systemctl options and more examples </a>
 - <a href="Sys-Process/systemctl-apache.md"> Example : check the apache service with `systemctl` command </a>
+- <a href="Sys-Process/systemctl-unit-list.md"> systemctl unit-list </a>
 
 ## Shell
 
