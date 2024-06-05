@@ -2,12 +2,12 @@
 
 ## SYS Process
 
-- <a href="Boot-Process/boot-process-stages.md">Boot Process Stages</a>
-- <a href="Boot-Process/BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
-- <a href="Boot-Process/initd-systemd.md">The Concept of `initd` and `systemd`</a>
-- <a href="Boot-Process/systemd.md"> Systemd and systemctl </a>
-- <a href="Boot-Process/systemctl-options.md"> systemctl options and more examples </a>
-- <a href="Boot-Process/systemctl-apache.md"> Example : check the apache service with `systemctl` command </a>
+- <a href="Sys-Process/boot-process-stages.md">Boot Process Stages</a>
+- <a href="Sys-Process/BIOS-UEFI.md">BIOS/UEFI Process in detail</a>
+- <a href="Sys-Process/initd-systemd.md">The Concept of `initd` and `systemd`</a>
+- <a href="Sys-Process/systemd.md"> Systemd and systemctl </a>
+- <a href="Sys-Process/systemctl-options.md"> systemctl options and more examples </a>
+- <a href="Sys-Process/systemctl-apache.md"> Example : check the apache service with `systemctl` command </a>
 
 ## Shell
 
