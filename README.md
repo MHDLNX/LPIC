@@ -48,6 +48,8 @@
 ## Nginx web server
 
 - <a href="NginX/intro.md">introduction to Nginx</a>
+- <a href="NginX/connect-domain.md"> connecting to domain ( sever_name ) </a>
+
 
 
 
