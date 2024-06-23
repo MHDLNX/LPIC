@@ -45,7 +45,9 @@
 - <a href="network/static-ip.md"> change network interface from using DHCP to a static IP address </a>
 - <a href="network/netstat.md"> using `netstat` command - not recommended </a>
 
+## Nginx web server
 
+- <a href="NginX/intro.md">introduction to Nginx</a>
 
 
 
