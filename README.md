@@ -50,6 +50,9 @@
 - <a href="NginX/intro.md">introduction to Nginx</a>
 - <a href="NginX/connect-domain.md"> connecting to domain ( sever_name ) </a>
 
+----------------------------------------------------------------------------
+
+<a href="https://www.notion.so/DevOps-ad8e255611574982967a93b82d76dfa2?pvs=4">notion page</a>
 
 
 
